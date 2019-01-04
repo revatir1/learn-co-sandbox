@@ -45,8 +45,14 @@ a:hover {
   padding: 0;
   display: flex;
   justify-content: center;
-  
-  
+}
+
+.flex-nav ul li {
+  flex-grow: 3;
+}
+
+.flex-nav ul .social {
+  flex-grow: 1;
 }
 
 
